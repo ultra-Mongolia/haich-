@@ -1,0 +1,14 @@
+body{
+	background-color:orange;
+}
+.game{
+	background-color:red;
+	padding:70px;
+}
+.game img{
+	width:230px;
+	height:230px;
+	border-radius:150px;
+	background-color:blue;
+	padding:70px;
+}
